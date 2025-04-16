@@ -10,7 +10,7 @@ int main() {
     int factorialAnswer = 1;
     std::string userNum;
 
-    // get the user number
+    // get the users number
     std::cout << "Enter a whole number: ";
     std ::cin >> userNum;
     try {
